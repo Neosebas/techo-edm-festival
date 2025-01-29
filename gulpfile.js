@@ -26,3 +26,6 @@ export function dev(){
 }
 
 export default series(js, css, dev)
+
+// **Tarea de construcción (build) para Netlify**
+export const build = series(js, css);
