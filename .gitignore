@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Gulp file
+gulpfile.js
+
+# Package files
+package.json
